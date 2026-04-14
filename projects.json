@@ -5,8 +5,22 @@
       "tech": "Java + HTML/CSS"
     },
     {
-      "name": "Portfolio Website",
+      "name": "https://github.com/vv1705260-rgb/vaishali-portfolio",
       "tech": "HTML, CSS, JS"
+    }
+  ]
+}
+{
+  "projects": [
+    {
+      "name": "Library Dashboard",
+      "tech": "Java + HTML/CSS",
+      "link": "https://github.com/vv1705260-rgb/vaishali-portfolio"
+    },
+    {
+      "name": "Portfolio Website",
+      "tech": "HTML, CSS, JS",
+      "link": "https://github.com/vv1705260-rgb/vaishali-portfolio"
     }
   ]
 }
