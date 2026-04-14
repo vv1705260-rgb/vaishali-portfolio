@@ -24,6 +24,14 @@ header {
     border-radius: 20px;
     text-decoration: none;
 }
+a {
+    color: #4cc9f0;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f72585;
+}
 
 section {
     padding: 20px;
