@@ -24,7 +24,21 @@ typing();
     color: white;
     text-decoration: none;
 }
+fetch("projects.json")
+.then(response => response.json())
+.then(data => {
+    let container = document.getElementById("project-list");
 
-.navbar a:hover {
-    color: #f72585;
-}
+    data.projects.forEach(project => {
+        let div = document.createElement("div");
+        div.className = "card";
+
+        div.innerHTML = `
+            <h3>${project.name}</h3>
+            <p>${project.tech}</p>
+            <a href="${project.link}" target="_blank">View Project 🔗</a>
+        `;
+
+        container.appendChild(div);
+    });
+});
