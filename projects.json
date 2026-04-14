@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "Library Dashboard",
+      "tech": "Java + HTML/CSS"
+    },
+    {
+      "name": "Portfolio Website",
+      "tech": "HTML, CSS, JS"
+    }
+  ]
+}
