@@ -35,6 +35,8 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 📞 Contact
 - Email: vv1705260@gmail.com
+- Linkdin: https://www.linkedin.com/in/vaishali-357946292006deimos
+https://www.linkedin.com/in/vaishali-357946292006deimos?trk=contact-info
 - what's app: 8867343017
 
 ---
